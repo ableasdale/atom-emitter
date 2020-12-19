@@ -14,7 +14,8 @@ public class Demo {
         JAXBContext jc = JAXBContext.newInstance("org.w3._2005.atom");
 
         Unmarshaller unmarshaller = jc.createUnmarshaller();
-        URL url = new URL("http://bdoughan.blogspot.com/atom.xml");
+        //URL url = new URL("http://bdoughan.blogspot.com/atom.xml");
+        URL url = new URL("http://blog.msbbc.co.uk/atom.xml");
         InputStream xml = url.openStream();
         JAXBElement<FeedType> feed = unmarshaller.unmarshal(new StreamSource(xml), FeedType.class);
         xml.close();
