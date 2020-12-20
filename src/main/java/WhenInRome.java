@@ -8,7 +8,13 @@ import com.rometools.rome.io.XmlReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.IOException;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerConfigurationException;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.stream.StreamResult;
+import javax.xml.transform.stream.StreamSource;
+import java.io.*;
 import java.lang.invoke.MethodHandles;
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -94,6 +100,39 @@ public class WhenInRome {
         } catch (FeedException e) {
             e.printStackTrace();
         }
+
+        /**
+         * XSLT magic
+         */
+
+            // Create a transform factory instance.
+            TransformerFactory tfactory = TransformerFactory.newInstance();
+
+            // Create a transformer for the stylesheet.
+        Transformer transformer = null;
+        try {
+            transformer = tfactory.newTransformer(new StreamSource(new File("src/main/resources/j2.xsl")));
+        } catch (TransformerConfigurationException e) {
+            e.printStackTrace();
+        }
+        SyndFeedOutput output = new SyndFeedOutput();
+       ByteArrayOutputStream baos = new ByteArrayOutputStream();
+       // Writer foo = new SyndFeedOutput().output(feed1, new OutputStreamWriter(baos));
+       // Writer writer = new OutputStreamWriter();
+                // Transform the source XML to System.out.
+
+        try {
+           // transformer.transform(new SyndFeedOutput().output(feed1, new OutputStreamWriter(baos)),
+             //       new StreamResult(System.out));
+            transformer.transform(new StreamSource(new File("src/main/resources/feed.xml")),
+
+            new StreamResult(System.out));
+        } catch (TransformerException e) {
+            e.printStackTrace();
+        }
+
+
+
 
     }
 }

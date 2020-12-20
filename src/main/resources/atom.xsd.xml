@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<xs:schema targetNamespace="http://www.w3.org/2005/Atom" elementFormDefault="qualified" 
-	attributeFormDefault="unqualified"
-	xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema targetNamespace="http://www.w3.org/2005/Atom" elementFormDefault="qualified"
+		   attributeFormDefault="unqualified"
+		   xmlns:atom="http://www.w3.org/2005/Atom"
+		   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+		   xmlns:xml="http://www.w3.org/XML/1998/namespace">
 	<xs:annotation>
 		<xs:documentation>
-				This version of the Atom schema is based on version 1.0 of the format specifications,
-				found here http://www.atomenabled.org/developers/syndication/atom-format-spec.php.
-			</xs:documentation>
+			This version of the Atom schema is based on version 1.0 of the format specifications,
+			found here http://www.atomenabled.org/developers/syndication/atom-format-spec.php.
+		</xs:documentation>
 	</xs:annotation>
 	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/03/xml.xsd" />
 	<xs:annotation>
@@ -233,8 +235,6 @@
 		</xs:simpleContent>
 	</xs:complexType>
 	<xs:attributeGroup name="commonAttributes">
-		<xs:attribute ref="xml:base" />
-		<xs:attribute ref="xml:lang" />
 		<xs:anyAttribute namespace="##other"/>
 	</xs:attributeGroup>
 </xs:schema>

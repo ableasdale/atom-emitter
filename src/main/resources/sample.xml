@@ -1,0 +1,1513 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
+      xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr='http://purl.org/syndication/thread/1.0'>
+    <id>tag:blogger.com,1999:blog-3880412415863085626</id>
+    <updated>2020-11-11T06:56:56.389+00:00</updated>
+    <category term="marklogic"/>
+    <category term="xquery"/>
+    <category term="java"/>
+    <category term="eclipse"/>
+    <category term="xforms"/>
+    <category term="bash"/>
+    <category term="http"/>
+    <category term="xcc/j"/>
+    <category term="orbeon"/>
+    <category term="xml"/>
+    <category term="ant"/>
+    <category term="cq"/>
+    <category term="daisycms"/>
+    <category term="grep"/>
+    <category term="javascript"/>
+    <category term="jsf"/>
+    <category term="svn"/>
+    <category term="administration"/>
+    <category term="configuration"/>
+    <category term="cts:and-query"/>
+    <category term="cts:search"/>
+    <category term="httpclient"/>
+    <category term="jquery"/>
+    <category term="marklogic xquery"/>
+    <category term="post"/>
+    <category term="saxon"/>
+    <category term="search"/>
+    <category term="ubuntu"/>
+    <category term="windows"/>
+    <category term="xhtml"/>
+    <category term="xslt"/>
+    <category term="IntelliJ IDEA"/>
+    <category term="apache"/>
+    <category term="css"/>
+    <category term="daisy API"/>
+    <category term="database"/>
+    <category term="document tasks"/>
+    <category term="eclipse galileo"/>
+    <category term="events"/>
+    <category term="excel"/>
+    <category term="external variables"/>
+    <category term="get"/>
+    <category term="git"/>
+    <category term="hadoop"/>
+    <category term="html"/>
+    <category term="jersey"/>
+    <category term="map"/>
+    <category term="marklogic 5"/>
+    <category term="nvdl"/>
+    <category term="oxygen"/>
+    <category term="performance tuning"/>
+    <category term="php"/>
+    <category term="replace"/>
+    <category term="scala"/>
+    <category term="schema"/>
+    <category term="search api"/>
+    <category term="search-api"/>
+    <category term="sed"/>
+    <category term="shell"/>
+    <category term="sort"/>
+    <category term="support script"/>
+    <category term="unix"/>
+    <category term="url"/>
+    <category term="xcc"/>
+    <category term="xqdt"/>
+    <category term="xslt2"/>
+    <category term="404"/>
+    <category term="Actionscript 3"/>
+    <category term="DOM"/>
+    <category term="EGit"/>
+    <category term="FlexUnit"/>
+    <category term="GNUstep"/>
+    <category term="IDE"/>
+    <category term="REST"/>
+    <category term="XFormsFilter"/>
+    <category term="XPath"/>
+    <category term="admin"/>
+    <category term="admin api"/>
+    <category term="alt attributes"/>
+    <category term="apache shtml xssi"/>
+    <category term="api"/>
+    <category term="attribute search"/>
+    <category term="awk"/>
+    <category term="backup"/>
+    <category term="batch"/>
+    <category term="bindings"/>
+    <category term="branching"/>
+    <category term="buildout"/>
+    <category term="call-template"/>
+    <category term="capistrano"/>
+    <category term="capitalize"/>
+    <category term="captions"/>
+    <category term="cgi"/>
+    <category term="character encoding"/>
+    <category term="character replace"/>
+    <category term="character-encoding"/>
+    <category term="chiba"/>
+    <category term="class attribute"/>
+    <category term="clone"/>
+    <category term="code format"/>
+    <category term="codepoint"/>
+    <category term="coldfusion"/>
+    <category term="collations"/>
+    <category term="compile errors"/>
+    <category term="compound search"/>
+    <category term="conditional"/>
+    <category term="config"/>
+    <category term="configure"/>
+    <category term="connection"/>
+    <category term="connector jackrabbit"/>
+    <category term="console2"/>
+    <category term="contains"/>
+    <category term="content negotiation"/>
+    <category term="contentType"/>
+    <category term="coregraphics"/>
+    <category term="cts:and-not-query"/>
+    <category term="cts:collection-query"/>
+    <category term="cts:collections"/>
+    <category term="cts:contains"/>
+    <category term="cts:element-attribute-word-query"/>
+    <category term="cts:element-query"/>
+    <category term="cts:element-word-query"/>
+    <category term="cts:or-query"/>
+    <category term="customisation"/>
+    <category term="cygwin"/>
+    <category term="dateTime"/>
+    <category term="dayTimeDuration"/>
+    <category term="dba"/>
+    <category term="debug"/>
+    <category term="delete"/>
+    <category term="deployment"/>
+    <category term="devops"/>
+    <category term="diacritics"/>
+    <category term="diagnostics"/>
+    <category term="digest-authentication"/>
+    <category term="dltk"/>
+    <category term="document size"/>
+    <category term="document uri"/>
+    <category term="dojo"/>
+    <category term="dolphin"/>
+    <category term="dos"/>
+    <category term="double"/>
+    <category term="du"/>
+    <category term="durations"/>
+    <category term="eXist"/>
+    <category term="eXist windows network drive mapping"/>
+    <category term="eclipse helios"/>
+    <category term="eclipse osx jdk1.6 crash repeatedly"/>
+    <category term="editor"/>
+    <category term="element and attribute constructors"/>
+    <category term="element-based-sort"/>
+    <category term="epoch"/>
+    <category term="event.connect"/>
+    <category term="exec"/>
+    <category term="exponent"/>
+    <category term="external modules"/>
+    <category term="fedora"/>
+    <category term="file extensions"/>
+    <category term="find"/>
+    <category term="finder"/>
+    <category term="firebug"/>
+    <category term="firefox"/>
+    <category term="fn:collection"/>
+    <category term="folder-size"/>
+    <category term="forest"/>
+    <category term="forest-status"/>
+    <category term="forms"/>
+    <category term="function overloading"/>
+    <category term="generate test data"/>
+    <category term="git merge"/>
+    <category term="github"/>
+    <category term="glassfish jdk1.6"/>
+    <category term="glassfish permgenspace eclipse issues"/>
+    <category term="glassfish prelude"/>
+    <category term="glassfish proxy apache mod_proxy"/>
+    <category term="go"/>
+    <category term="google code"/>
+    <category term="grizzly"/>
+    <category term="guids"/>
+    <category term="heap status"/>
+    <category term="hide"/>
+    <category term="htmlcleaner"/>
+    <category term="http_referer"/>
+    <category term="ie"/>
+    <category term="if"/>
+    <category term="image alignment"/>
+    <category term="in memory"/>
+    <category term="in-mem-update"/>
+    <category term="include"/>
+    <category term="indexes"/>
+    <category term="insert module"/>
+    <category term="install notes"/>
+    <category term="instance data"/>
+    <category term="iphone"/>
+    <category term="java reflections example invoke"/>
+    <category term="javasript"/>
+    <category term="jaxb"/>
+    <category term="jdbc"/>
+    <category term="jms"/>
+    <category term="jndi"/>
+    <category term="jrun"/>
+    <category term="json"/>
+    <category term="jstl"/>
+    <category term="juju"/>
+    <category term="junit"/>
+    <category term="kde4"/>
+    <category term="label decorations"/>
+    <category term="large"/>
+    <category term="libxcc"/>
+    <category term="lines"/>
+    <category term="linker"/>
+    <category term="logging"/>
+    <category term="lucid"/>
+    <category term="mail"/>
+    <category term="mantissa"/>
+    <category term="maps"/>
+    <category term="marklogic logs"/>
+    <category term="maven"/>
+    <category term="mercurial"/>
+    <category term="merge"/>
+    <category term="merge blackout"/>
+    <category term="mime types"/>
+    <category term="modules"/>
+    <category term="mojarra"/>
+    <category term="mp3"/>
+    <category term="mvn"/>
+    <category term="network"/>
+    <category term="node"/>
+    <category term="objective-c"/>
+    <category term="older revisions"/>
+    <category term="organize imports"/>
+    <category term="osx"/>
+    <category term="osx bash ant ivy"/>
+    <category term="osx keyboard"/>
+    <category term="package explorer"/>
+    <category term="panel grid"/>
+    <category term="parameters"/>
+    <category term="parse"/>
+    <category term="parse cells"/>
+    <category term="parsing"/>
+    <category term="pattern"/>
+    <category term="perl"/>
+    <category term="permissions"/>
+    <category term="plone3"/>
+    <category term="popup"/>
+    <category term="position"/>
+    <category term="profile"/>
+    <category term="pstack"/>
+    <category term="publish"/>
+    <category term="query meters"/>
+    <category term="query plan"/>
+    <category term="range-element-indexes"/>
+    <category term="rebase"/>
+    <category term="recordloader"/>
+    <category term="regex"/>
+    <category term="relevancy binding"/>
+    <category term="remove-constraint"/>
+    <category term="rename"/>
+    <category term="reporting"/>
+    <category term="result tree"/>
+    <category term="return types"/>
+    <category term="rhes"/>
+    <category term="rpm"/>
+    <category term="ruby"/>
+    <category term="sample"/>
+    <category term="save actions"/>
+    <category term="sbt"/>
+    <category term="scalatest"/>
+    <category term="schema-aware"/>
+    <category term="scp"/>
+    <category term="search optimisation"/>
+    <category term="security"/>
+    <category term="shtml"/>
+    <category term="size"/>
+    <category term="smtp"/>
+    <category term="snow leopard"/>
+    <category term="sort-order"/>
+    <category term="sorting"/>
+    <category term="sql server"/>
+    <category term="ssh"/>
+    <category term="stax"/>
+    <category term="stored procedures"/>
+    <category term="strings"/>
+    <category term="subclipse"/>
+    <category term="svn backup"/>
+    <category term="svn hidden folder delete"/>
+    <category term="table"/>
+    <category term="tags"/>
+    <category term="tar"/>
+    <category term="text/html"/>
+    <category term="timestamp"/>
+    <category term="tooltip"/>
+    <category term="trac-admin"/>
+    <category term="trailing wildcard searches"/>
+    <category term="truezip"/>
+    <category term="typeswitch"/>
+    <category term="ubuntu 10.4"/>
+    <category term="uniq"/>
+    <category term="unpack"/>
+    <category term="unzip"/>
+    <category term="usability"/>
+    <category term="user"/>
+    <category term="utf8"/>
+    <category term="validation"/>
+    <category term="value"/>
+    <category term="view"/>
+    <category term="view module"/>
+    <category term="virtualbox"/>
+    <category term="virtualbox clone vdi"/>
+    <category term="vtd-xml"/>
+    <category term="web"/>
+    <category term="webdav"/>
+    <category term="window.location.href"/>
+    <category term="wordpress"/>
+    <category term="x64"/>
+    <category term="xargs"/>
+    <category term="xcode"/>
+    <category term="xdmp:elapsed-time"/>
+    <category term="xdmp:estimate"/>
+    <category term="xdmp:eval"/>
+    <category term="xdmp:forest-status"/>
+    <category term="xdmp:query-meters"/>
+    <category term="xdmp:set"/>
+    <category term="xml configuration"/>
+    <category term="xml date conversion"/>
+    <category term="xml tool"/>
+    <category term="xmlschema"/>
+    <category term="xpl"/>
+    <category term="xqsync"/>
+    <category term="xsi:type"/>
+    <category term="xssi"/>
+    <category term="xxforms:get-request-parameter"/>
+    <category term="zipfiles"/>
+    <title type='text'>Developer Notes</title>
+    <subtitle type='html'>My notes on XML and web development - MarkLogic, xquery, xforms, xslt, xml schema, java, html,
+        css, javascript, xssi and others.
+    </subtitle>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+          href='http://blog.msbbc.co.uk/feeds/posts/default'/>
+    <link rel='self' type='application/atom+xml'
+          href='http://www.blogger.com/feeds/3880412415863085626/posts/default?alt=atom'/>
+    <link rel='alternate' type='text/html' href='http://blog.msbbc.co.uk/'/>
+    <link rel='hub' href='http://pubsubhubbub.appspot.com/'/>
+    <link rel='next' type='application/atom+xml'
+          href='http://www.blogger.com/feeds/3880412415863085626/posts/default?alt=atom&amp;start-index=26&amp;max-results=25'/>
+    <author>
+        <name>Alex Bleasdale</name>
+        <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+        <email>noreply@blogger.com</email>
+        <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                  src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+    </author>
+    <generator version='7.00' uri='http://www.blogger.com'>Blogger</generator>
+    <openSearch:totalResults>165</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-6785966563734445566</id>
+        <published>2013-01-11T12:08:00.002+00:00</published>
+        <updated>2013-01-11T12:08:46.442+00:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="unix"/>
+        <title type='text'>Unix/MarkLogic: Getting a sorted list of all Forests from a MarkLogic support dump</title>
+        <content type='html'>Here&#39;s a method for getting a sorted list of all forests from a MarkLogic support dump:
+            &lt;pre&gt;grep &quot;forest-name&quot; support-request-go.txt | sed -e &#39;s/^[ \t]*//&#39; | sort | uniq&lt;/pre&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/6785966563734445566/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=6785966563734445566'
+              title='1 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/6785966563734445566'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/6785966563734445566'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2013/01/unixmarklogic-getting-sorted-list-of.html'
+              title='Unix/MarkLogic: Getting a sorted list of all Forests from a MarkLogic support dump'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>1</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-9136469112210940002</id>
+        <published>2012-12-12T13:09:00.000+00:00</published>
+        <updated>2012-12-12T13:10:32.640+00:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="awk"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="bash"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="grep"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="pstack"/>
+        <title type='text'>MarkLogic: pstack not working?</title>
+        <content type='html'>I recently saw an issue where the usual trick of calling: &lt;pre&gt;&lt;br /&gt;sudo
+            /etc/init.d/MarkLogic pstack &lt;br /&gt;&lt;/pre&gt; Was not dumping the output from pstack as expected. I
+            put this together to work around this issue by doing the following instead: &lt;pre&gt;&lt;br /&gt;sudo
+            pstack $(ps -ef | grep MarkLogic | grep daemon | awk &#39;END {print $2}&#39;)&lt;br /&gt;&lt;/pre&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/9136469112210940002/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=9136469112210940002'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/9136469112210940002'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/9136469112210940002'/>
+        <link rel='alternate' type='text/html' href='http://blog.msbbc.co.uk/2012/12/marklogic-pstack-not-working.html'
+              title='MarkLogic: pstack not working?'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-1745766236555084519</id>
+        <published>2012-06-21T11:23:00.000+01:00</published>
+        <updated>2012-06-21T11:23:34.634+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="bash"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="grep"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="sed"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="sort"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="uniq"/>
+        <title type='text'>Bash: example using grep and sed to process a MarkLogic ErrorLog.txt file</title>
+        <content type='html'>Here&#39;s an exammple of how grep, sed, sort and uniq can be used to debug entries in a
+            log file (in this case, I&#39;m debugging a problem with a CPF pipeline in MarkLogic). In essence, this
+            process filters all the lines pertaining to a CPF processing action, removes the first part of the line to
+            remove timestamps and unnecessary information (leaving just a document URI), sorts them into an order then
+            returns just the unique document URIs: &lt;pre&gt;grep &quot;Processing some-problem-query.xqy&quot;
+            ErrorLog.txt | sed &quot;s/^.*.xqy: //g&quot; | sort | uniq&lt;/pre&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/1745766236555084519/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=1745766236555084519'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/1745766236555084519'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/1745766236555084519'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2012/06/bash-example-using-grep-and-sed-to.html'
+              title='Bash: example using grep and sed to process a MarkLogic ErrorLog.txt file'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-8396083856780280079</id>
+        <published>2012-06-18T16:00:00.001+01:00</published>
+        <updated>2012-06-18T16:00:58.063+01:00</updated>
+        <title type='text'>Cygwin: Output text content to the clipboard</title>
+        <content type='html'>Sometimes it&#39;s useful to redirect the output directly to the windows clipboard so you
+            can use the content elsewhere later (a text editor, for example): &lt;pre&gt;&lt;br /&gt;bash-4.1$ grep
+            &quot;Starting MarkLogic&quot; ErrorLog_2.txt -A50 -B260 &gt; /dev/clipboard&lt;br /&gt;&lt;/pre&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/8396083856780280079/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=8396083856780280079'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/8396083856780280079'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/8396083856780280079'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2012/06/cygwin-output-text-content-to-clipboard.html'
+              title='Cygwin: Output text content to the clipboard'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-3114171403705132926</id>
+        <published>2012-05-13T13:04:00.000+01:00</published>
+        <updated>2012-05-13T13:09:36.107+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="deployment"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="devops"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="juju"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="ubuntu"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="wordpress"/>
+        <title type='text'>Ubuntu: easy rapid deployment of wordpress in a local development environment</title>
+        <content type='html'>Here&#39;s a very quick guide to setting up wordpress using juju for local development.
+            Install the prerequisite files and disable the firewall so your system can configure itself correctly: &lt;script
+            type=&quot;syntaxhighlighter&quot; class=&quot;brush: bash&quot;&gt;&lt;![CDATA[ sudo apt-get install juju
+            apt-cacher-ng libvirt-bin lxc zookeeper sudo ufw disable ]]&gt;&lt;/script&gt; Then edit the &lt;b&gt;environments&lt;/b&gt;
+            configuration file: &lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: bash&quot;&gt;&lt;![CDATA[
+            vim ~/.juju/environments.yaml ]]&gt;&lt;/script&gt; It should look something like this after you&#39;ve set
+            the type to local and added the data-dir for the instance data: &lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: bash&quot;&gt;&lt;![CDATA[ environments: sample: type: local data-dir:
+            /home/alex/jujutest control-bucket: juju-d1da18f3b8e34eea91f13fbf04700905 admin-secret:
+            ef7fb7b8630e4d24976e0b6dfed45d4f default-series: precise ]]&gt;&lt;/script&gt; The following will bootstrap,
+            deploy mysql and wordpress, then make it available over http: &lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: bash&quot;&gt;&lt;![CDATA[ sudo juju bootstrap sudo juju deploy mysql sudo juju deploy
+            wordpress sudo juju add-relation wordpress mysql sudo juju expose wordpress ]]&gt;&lt;/script&gt; You will
+            need to give juju 5 - 10 minutes before everything is ready. You will probably hear a fair amount of disk
+            I/O while this is happening. To get the status of your juju&#39;d instance: &lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: bash&quot;&gt;&lt;![CDATA[ juju status ]]&gt;&lt;/script&gt; Look at the wordpress
+            configuration information, the public-address will be the address where the instance is made available over
+            http. To teardown the environment: &lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: bash&quot;&gt;&lt;![CDATA[
+            sudo juju destroy-environment ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/3114171403705132926/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=3114171403705132926'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/3114171403705132926'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/3114171403705132926'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2012/05/ubuntu-easy-rapid-deployment-of.html'
+              title='Ubuntu: easy rapid deployment of wordpress in a local development environment'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-4005523371501064852</id>
+        <published>2012-02-15T14:44:00.002+00:00</published>
+        <updated>2012-05-13T13:08:27.510+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="batch"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="file extensions"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="rename"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="shell"/>
+        <title type='text'>Unix: batch file rename note</title>
+        <content type='html'>Batch file rename example allowing files to be renamed and appending a &#39;zip&#39; file
+            extension - run from within a directory: &lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush:
+            bash&quot;&gt;&lt;![CDATA[ for i in *; do mv $i $i.zip; done ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/4005523371501064852/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=4005523371501064852'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/4005523371501064852'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/4005523371501064852'/>
+        <link rel='alternate' type='text/html' href='http://blog.msbbc.co.uk/2012/02/unix-batch-file-rename-note.html'
+              title='Unix: batch file rename note'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-2794813934639283593</id>
+        <published>2011-12-13T14:44:00.004+00:00</published>
+        <updated>2012-05-13T13:08:43.705+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="capistrano"/>
+        <title type='text'>Capistrano: standard invocation note</title>
+        <content type='html'>To execute a capistrano task against a given host: &lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: bash&quot;&gt;&lt;![CDATA[ cap -f path/to/your/capfile [target_host] [task] ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/2794813934639283593/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=2794813934639283593'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/2794813934639283593'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/2794813934639283593'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/12/capistrano-standard-invocation-note.html'
+              title='Capistrano: standard invocation note'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-416918089148240742</id>
+        <published>2011-12-09T17:40:00.001+00:00</published>
+        <updated>2011-12-09T17:44:15.497+00:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="java"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="xcc/j"/>
+        <title type='text'>MarkLogic: Using XCC/J to pass content to an installed Module</title>
+        <content type='html'>I&#39;ve covered something similar to this before, but here&#39;s an example of how you
+            invoke an external module (and pass several variables to it) using XCC: &lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: java&quot;&gt;&lt;![CDATA[ import com.marklogic.xcc.ContentSource; import
+            com.marklogic.xcc.ContentSourceFactory; import com.marklogic.xcc.ModuleInvoke; import
+            com.marklogic.xcc.Session; import com.marklogic.xcc.exceptions.RequestException; import
+            com.marklogic.xcc.exceptions.XccConfigException; import java.io.BufferedInputStream; import java.io.File;
+            import java.io.FileInputStream; import java.io.IOException; import java.net.URI; import
+            java.net.URISyntaxException; class Test { public static void main(String[] args) throws URISyntaxException,
+            XccConfigException, IOException, RequestException { String documentUri = &quot;/content/uri.xml&quot;;
+            String documentContent = readFileAsString(&quot;/path/to/your/testfile.xml&quot;); int quality = 0;
+            ContentSource cs = ContentSourceFactory.newContentSource(new URI(&quot;xcc://admin:password@localhost:xxxx/DatabaseName&quot;));
+            Session s = cs.newSession(); ModuleInvoke moduleInvoke = s.newModuleInvoke(null); moduleInvoke.setModuleUri(&quot;/handle-doc.xqy&quot;);
+            moduleInvoke.setNewStringVariable(&quot;uri&quot;, documentUri); moduleInvoke.setNewStringVariable(&quot;xmlString&quot;,
+            documentContent); moduleInvoke.setNewIntegerVariable(&quot;quality&quot;, quality);
+            s.submitRequest(moduleInvoke); s.close(); } private static String readFileAsString(String filePath) throws
+            java.io.IOException { byte[] buffer = new byte[(int) new File(filePath).length()]; BufferedInputStream f =
+            null; try { f = new BufferedInputStream(new FileInputStream(filePath)); f.read(buffer); } finally { if (f !=
+            null) try { f.close(); } catch (IOException ignored) { System.out.println(&quot;HIT IO EXCEPTION&quot;); } }
+            return new String(buffer); } } ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/416918089148240742/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=416918089148240742'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/416918089148240742'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/416918089148240742'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/12/marklogic-using-xccj-to-pass-content-to.html'
+              title='MarkLogic: Using XCC/J to pass content to an installed Module'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-6841345949726448943</id>
+        <published>2011-11-02T18:41:00.000+00:00</published>
+        <updated>2011-11-02T18:42:03.913+00:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="hadoop"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic 5"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="xcc"/>
+        <title type='text'>MarkLogic: Next steps with the MarkLogic Hadoop Connector (MarkLogic 5.0-1)</title>
+        <content type='html'>&lt;p&gt;Following on from my post &lt;a href=&quot;http://blog.msbbc.co.uk/2011/11/marklogic-first-steps-with-marklogic.html&quot;&gt;yesterday&lt;/a&gt;,
+            here&#39;s a further example usage for the hadoop connector&lt;/p&gt;&lt;p&gt;Listed below is an example
+            showing how you can use the connector to &lt;i&gt;update&lt;/i&gt; an existing document in MarkLogic. As
+            before, we&#39;re only focusing on the Map phase of Map/Reduce in order to keep things simple.&lt;/p&gt;
+            &lt;h4&gt;Prerequisites:&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;You&#39;ll need the hadoop connector on your
+            buildpath, which is &lt;a href=&quot;http://developer.marklogic.com/products/hadoop&quot;&gt;here&lt;/a&gt;&lt;/li&gt;&lt;li&gt;In
+            addition to having installed MarkLogic 5, you&#39;ll need to create an XDBC server (for this example, I&#39;m
+            using port 9999 and targeting the Documents database).&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;When you&#39;re ready,
+            create one XML doc in the database:&lt;/p&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush:
+            xquery&quot;&gt;&lt;![CDATA[ xdmp:document-insert(&quot;/test.xml&quot;, &lt;doc&gt;&lt;node&gt;test&lt;/node&gt;&lt;/doc&gt;)
+            ]]&gt;&lt;/script&gt; &lt;p&gt;Then try the following:&lt;/p&gt;&lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: java&quot;&gt;&lt;![CDATA[ import java.io.IOException; import java.text.MessageFormat;
+            import java.util.Date; import org.apache.hadoop.conf.Configuration; import org.apache.hadoop.fs.Path; import
+            org.apache.hadoop.mapreduce.Job; import org.apache.hadoop.mapreduce.Mapper; import org.slf4j.Logger; import
+            org.slf4j.LoggerFactory; import org.w3c.dom.Document; import org.w3c.dom.Element; import org.w3c.dom.Text;
+            import com.marklogic.mapreduce.ContentOutputFormat; import com.marklogic.mapreduce.DocumentInputFormat;
+            import com.marklogic.mapreduce.DocumentURI; import com.marklogic.mapreduce.MarkLogicNode; public class
+            MapWithXmlNodeUpdate { private static final Logger LOG = LoggerFactory
+            .getLogger(MapWithXmlNodeUpdate.class); public static void main(String[] args) { MapWithXmlNodeUpdate mlnu =
+            new MapWithXmlNodeUpdate(); mlnu.executeMapProcess(); } public static class MyMapper extends Mapper&lt;DocumentURI,
+            MarkLogicNode, DocumentURI, MarkLogicNode&gt; { private static final Logger LOG = LoggerFactory
+            .getLogger(MyMapper.class); @Override public void map(DocumentURI key, MarkLogicNode value, Context context)
+            throws IOException, InterruptedException { if (key != null &amp;&amp; value != null &amp;&amp; value.get()
+            != null) { // grab the doc from the database as part of the map process Document doc = (Document)
+            value.get(); // Create an updated element and add it as the last child of the // root element Element child
+            = doc.createElement(&quot;action&quot;); child.setAttribute(&quot;updated&quot;, new Date().toString());
+            doc.getLastChild().appendChild(child); Text text = doc .createTextNode(&quot;Document processed with the
+            MarkLogic Hadoop Connector&quot;); child.appendChild(text); // save the updated doc context.write(key, new
+            MarkLogicNode(doc)); LOG.info(MessageFormat.format( &quot;Written {0} back to MarkLogic...&quot;, key)); } }
+            } public void executeMapProcess() { LOG.info(MessageFormat.format(&quot;Starting MapReduce Job at: {0}&quot;,
+            new Date())); try { Configuration conf = new Configuration(); conf.addResource(new Path( &quot;src/main/resources/marklogic-mlnode-update.xml&quot;));
+            Job job = new Job(conf); job.setNumReduceTasks(0); job.setJarByClass(MapWithXmlNodeUpdate.class);
+            job.setMapperClass(MyMapper.class); job.setInputFormatClass(DocumentInputFormat.class);
+            job.setOutputFormatClass(ContentOutputFormat.class); job.setMapOutputKeyClass(DocumentURI.class);
+            job.setMapOutputValueClass(MarkLogicNode.class); job.waitForCompletion(true); job.killJob(); } catch
+            (IOException e) { LOG.error(e.getMessage()); } catch (InterruptedException e) { LOG.error(e.getMessage()); }
+            catch (ClassNotFoundException e) { LOG.error(e.getMessage()); } } } ]]&gt;&lt;/script&gt;&lt;p&gt;This is
+            the content for the XML config file &lt;b&gt;src/main/resources/marklogic-mlnode-update.xml&lt;/b&gt;
+            (referred to in the code above):&lt;/p&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush:
+            xml&quot;&gt;&lt;![CDATA[ &lt;?xml version=&quot;1.0&quot;?&gt;&lt;?xml-stylesheet type=&quot;text/xsl&quot;
+            href=&quot;configuration.xsl&quot;?&gt; &lt;configuration&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.input.username&lt;/name&gt;
+            &lt;value&gt;admin&lt;/value&gt; &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.input.password&lt;/name&gt;
+            &lt;value&gt;admin&lt;/value&gt; &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.input.host&lt;/name&gt;
+            &lt;value&gt;localhost&lt;/value&gt; &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.input.port&lt;/name&gt;
+            &lt;value&gt;9999&lt;/value&gt; &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.username&lt;/name&gt;
+            &lt;value&gt;admin&lt;/value&gt; &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.password&lt;/name&gt;
+            &lt;value&gt;admin&lt;/value&gt; &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.host&lt;/name&gt;
+            &lt;value&gt;localhost&lt;/value&gt; &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.port&lt;/name&gt;
+            &lt;value&gt;9999&lt;/value&gt; &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.node.optype&lt;/name&gt;
+            &lt;value&gt;UPDATE&lt;/value&gt; &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.content.type&lt;/name&gt;
+            &lt;value&gt;XML&lt;/value&gt; &lt;/property&gt;&lt;/configuration&gt;]]&gt;&lt;/script&gt;&lt;p&gt;And the
+            xcc/j connector for MarkLogic 5.0-1 is now in maven, so all other dependencies can be resolved by this pom:&lt;/p&gt;&lt;script
+            type=&quot;syntaxhighlighter&quot; class=&quot;brush: xml&quot;&gt;&lt;![CDATA[ &lt;project xmlns=&quot;http://maven.apache.org/POM/4.0.0&quot;
+            xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xsi:schemaLocation=&quot;http://maven.apache.org/POM/4.0.0
+            http://maven.apache.org/xsd/maven-4.0.0.xsd&quot;&gt; &lt;modelVersion&gt;4.0.0&lt;/modelVersion&gt; &lt;groupId&gt;ml-hadoop&lt;/groupId&gt;
+            &lt;artifactId&gt;ml-hadoop&lt;/artifactId&gt; &lt;version&gt;0.0.1-SNAPSHOT&lt;/version&gt; &lt;name&gt;ML
+            Hadoop Node Test&lt;/name&gt; &lt;description&gt;ML Hadoop Node Test&lt;/description&gt; &lt;repositories&gt;
+            &lt;repository&gt; &lt;id&gt;MarkLogic&lt;/id&gt; &lt;url&gt;http://developer.marklogic.com/maven2&lt;/url&gt;
+            &lt;/repository&gt; &lt;/repositories&gt; &lt;dependencies&gt; &lt;dependency&gt; &lt;groupId&gt;org.apache.hadoop&lt;/groupId&gt;
+            &lt;artifactId&gt;hadoop-core&lt;/artifactId&gt; &lt;version&gt;0.20.2&lt;/version&gt; &lt;/dependency&gt;
+            &lt;dependency&gt; &lt;groupId&gt;org.slf4j&lt;/groupId&gt; &lt;artifactId&gt;slf4j-api&lt;/artifactId&gt;
+            &lt;version&gt;1.6.3&lt;/version&gt; &lt;/dependency&gt; &lt;dependency&gt; &lt;groupId&gt;commons-modeler&lt;/groupId&gt;
+            &lt;artifactId&gt;commons-modeler&lt;/artifactId&gt; &lt;version&gt;2.0.1&lt;/version&gt; &lt;/dependency&gt;
+            &lt;dependency&gt; &lt;groupId&gt;ch.qos.logback&lt;/groupId&gt; &lt;artifactId&gt;logback-classic&lt;/artifactId&gt;
+            &lt;version&gt;0.9.30&lt;/version&gt; &lt;/dependency&gt; &lt;dependency&gt; &lt;groupId&gt;commons-io&lt;/groupId&gt;
+            &lt;artifactId&gt;commons-io&lt;/artifactId&gt; &lt;version&gt;2.1&lt;/version&gt; &lt;/dependency&gt; &lt;dependency&gt;
+            &lt;groupId&gt;com.marklogic&lt;/groupId&gt; &lt;artifactId&gt;marklogic-xcc&lt;/artifactId&gt; &lt;version&gt;5.0.1&lt;/version&gt;
+            &lt;/dependency&gt; &lt;/dependencies&gt;&lt;/project&gt;]]&gt;&lt;/script&gt;&lt;p&gt;Enjoy your
+            elephant...&lt;/p&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/6841345949726448943/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=6841345949726448943'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/6841345949726448943'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/6841345949726448943'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/11/marklogic-next-steps-with-marklogic.html'
+              title='MarkLogic: Next steps with the MarkLogic Hadoop Connector (MarkLogic 5.0-1)'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-8250698939832208279</id>
+        <published>2011-11-01T21:18:00.000+00:00</published>
+        <updated>2011-11-01T21:21:08.568+00:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="hadoop"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic 5"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="xcc"/>
+        <title type='text'>MarkLogic: First steps with the MarkLogic hadoop connector (MarkLogic 5.0-1)</title>
+        <content type='html'>&lt;p&gt;If you&#39;ve just installed &lt;a href=&quot;http://developer.marklogic.com/products&quot;&gt;MarkLogic
+            5&lt;/a&gt; and you&#39;re interested in spending some time checking out the hadoop connector, this may be a
+            useful accompaniment to all the documentation available from the newly [re]launched &lt;a href=&quot;http://developer.marklogic.com/&quot;&gt;MarkLogic
+            Developer Community site&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;There&#39;s quite a lot to get to grips with
+            regarding the hadoop connector and this will probably be a topic warranting a number of posts over time. But
+            as an additional resource for getting started (in addition to all the sample code and resources available
+            &lt;a href=&quot;http://developer.marklogic.com/products/hadoop&quot;&gt;here&lt;/a&gt;, this may be of some
+            use.&lt;/p&gt; &lt;p&gt;Briefly, it shows a simplistic use of the connector - which in itself is not so
+            useful as all it currently does is completely overwrite a document within the database with a new node, but
+            it should give an idea as to how the connector could be configured to perform updates to existing data -
+            which I hope to comment on within the next few days.&lt;/p&gt; &lt;h4&gt;Prerequisites:&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;You&#39;ll
+            need the hadoop connector, which is &lt;a href=&quot;http://developer.marklogic.com/products/hadoop&quot;&gt;here&lt;/a&gt;&lt;/li&gt;&lt;li&gt;You&#39;ll
+            also need to grab the latest &lt;a href=&quot;http://developer.marklogic.com/products/xcc/5.0&quot;&gt;xcc
+            connector&lt;/a&gt;&lt;/li&gt;&lt;li&gt;In addition to having installed MarkLogic 5, you&#39;ll need to
+            create an XDBC server (for this example, I&#39;m using port 9999 and targeting the Documents database).&lt;/li&gt;&lt;/ul&gt;
+            Insert one doc into the documents database (this will be overwritten when the hadoop job runs). Then try
+            running this code: &lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: java&quot;&gt;&lt;![CDATA[
+            import java.io.IOException; import java.io.StringReader; import java.text.MessageFormat; import
+            java.util.Date; import javax.xml.parsers.DocumentBuilder; import javax.xml.parsers.DocumentBuilderFactory;
+            import javax.xml.parsers.ParserConfigurationException; import org.apache.hadoop.conf.Configuration; import
+            org.apache.hadoop.fs.Path; import org.apache.hadoop.mapreduce.Job; import
+            org.apache.hadoop.mapreduce.Mapper; import org.slf4j.Logger; import org.slf4j.LoggerFactory; import
+            org.w3c.dom.Document; import org.w3c.dom.Node; import org.xml.sax.InputSource; import
+            org.xml.sax.SAXException; import com.marklogic.mapreduce.ContentOutputFormat; import
+            com.marklogic.mapreduce.DocumentInputFormat; import com.marklogic.mapreduce.DocumentURI; import
+            com.marklogic.mapreduce.MarkLogicNode; public class MapWithXmlNodeReplace { private static final Logger LOG
+            = LoggerFactory .getLogger(MapWithXmlNodeReplace.class); public static void main(String[] args) {
+            MapWithXmlNodeReplace mlnt = new MapWithXmlNodeReplace(); mlnt.executeMapReduce(); } public static class
+            MyMapper extends Mapper&lt;DocumentURI, MarkLogicNode, DocumentURI, MarkLogicNode&gt; { private static final
+            Logger LOG = LoggerFactory .getLogger(MyMapper.class); @Override public void map(DocumentURI key,
+            MarkLogicNode value, Context context) throws IOException, InterruptedException { if (key != null &amp;&amp;
+            value != null &amp;&amp; value.get() != null) { Node node = null; try { DocumentBuilder db =
+            DocumentBuilderFactory.newInstance() .newDocumentBuilder(); InputSource is = new InputSource();
+            is.setEncoding(&quot;UTF-8&quot;); is.setCharacterStream(new StringReader(&quot;&lt;action date=\&quot;&quot;
+            + new Date() + &quot;\&quot;&gt;node-replaced&lt;/action&gt;&quot;)); Document d = db.parse(is); node =
+            d.getDocumentElement(); LOG.info(MessageFormat .format(&quot;About to replace a document with the URI: {0}
+            with a node named: {1}&quot;, key, node.getNodeName())); } catch (SAXException e) {
+            LOG.error(e.getMessage()); } catch (ParserConfigurationException e) { LOG.error(e.getMessage()); }
+            context.write(key, new MarkLogicNode(node)); LOG.info(MessageFormat.format( &quot;Written {0} back to
+            MarkLogic...&quot;, key)); } } } public void executeMapReduce() { LOG.info(MessageFormat.format(&quot;Starting
+            MapReduce Job at: {0}&quot;, new Date())); try { Configuration conf = new Configuration();
+            conf.addResource(new Path( &quot;src/main/resources/marklogic-mlnode-replace.xml&quot;)); Job job = new
+            Job(conf); job.setNumReduceTasks(0); job.setJarByClass(MapWithXmlNodeReplace.class);
+            job.setMapperClass(MyMapper.class); job.setInputFormatClass(DocumentInputFormat.class);
+            job.setOutputFormatClass(ContentOutputFormat.class); job.setMapOutputKeyClass(DocumentURI.class);
+            job.setMapOutputValueClass(MarkLogicNode.class); job.waitForCompletion(true); job.killJob(); } catch
+            (IOException e) { LOG.error(e.getMessage()); } catch (InterruptedException e) { LOG.error(e.getMessage()); }
+            catch (ClassNotFoundException e) { LOG.error(e.getMessage()); } } } ]]&gt;&lt;/script&gt; This is the
+            content for the XML config file &lt;b&gt;src/main/resources/marklogic-mlnode-replace.xml&lt;/b&gt; (referred
+            to in the code above): &lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: xml&quot;&gt;&lt;![CDATA[
+            &lt;?xml version=&quot;1.0&quot;?&gt;&lt;?xml-stylesheet type=&quot;text/xsl&quot; href=&quot;configuration.xsl&quot;?&gt;
+            &lt;configuration&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.input.username&lt;/name&gt; &lt;value&gt;admin&lt;/value&gt;
+            &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.input.password&lt;/name&gt; &lt;value&gt;admin&lt;/value&gt;
+            &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.input.host&lt;/name&gt; &lt;value&gt;localhost&lt;/value&gt;
+            &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.input.port&lt;/name&gt; &lt;value&gt;9999&lt;/value&gt;
+            &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.username&lt;/name&gt; &lt;value&gt;admin&lt;/value&gt;
+            &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.password&lt;/name&gt; &lt;value&gt;admin&lt;/value&gt;
+            &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.host&lt;/name&gt; &lt;value&gt;localhost&lt;/value&gt;
+            &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.port&lt;/name&gt; &lt;value&gt;9999&lt;/value&gt;
+            &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.node.optype&lt;/name&gt; &lt;value&gt;REPLACE&lt;/value&gt;
+            &lt;/property&gt; &lt;property&gt; &lt;name&gt;mapreduce.marklogic.output.content.type&lt;/name&gt; &lt;value&gt;XML&lt;/value&gt;
+            &lt;/property&gt;&lt;/configuration&gt;]]&gt;&lt;/script&gt; I&#39;ve used a couple of additional
+            dependencies, so here&#39;s the contents of pom.xml for anyone using maven: &lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: xml&quot;&gt;&lt;![CDATA[ &lt;project xmlns=&quot;http://maven.apache.org/POM/4.0.0&quot;
+            xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xsi:schemaLocation=&quot;http://maven.apache.org/POM/4.0.0
+            http://maven.apache.org/xsd/maven-4.0.0.xsd&quot;&gt; &lt;modelVersion&gt;4.0.0&lt;/modelVersion&gt; &lt;groupId&gt;ml-hadoop&lt;/groupId&gt;
+            &lt;artifactId&gt;ml-hadoop&lt;/artifactId&gt; &lt;version&gt;0.0.1-SNAPSHOT&lt;/version&gt; &lt;name&gt;ML
+            Hadoop Node Test&lt;/name&gt; &lt;description&gt;ML Hadoop Node Test&lt;/description&gt; &lt;dependencies&gt;
+            &lt;dependency&gt; &lt;groupId&gt;org.apache.hadoop&lt;/groupId&gt; &lt;artifactId&gt;hadoop-core&lt;/artifactId&gt;
+            &lt;version&gt;0.20.2&lt;/version&gt; &lt;/dependency&gt; &lt;dependency&gt; &lt;groupId&gt;org.slf4j&lt;/groupId&gt;
+            &lt;artifactId&gt;slf4j-api&lt;/artifactId&gt; &lt;version&gt;1.6.3&lt;/version&gt; &lt;/dependency&gt; &lt;dependency&gt;
+            &lt;groupId&gt;commons-modeler&lt;/groupId&gt; &lt;artifactId&gt;commons-modeler&lt;/artifactId&gt; &lt;version&gt;2.0.1&lt;/version&gt;
+            &lt;/dependency&gt; &lt;dependency&gt; &lt;groupId&gt;ch.qos.logback&lt;/groupId&gt; &lt;artifactId&gt;logback-classic&lt;/artifactId&gt;
+            &lt;version&gt;0.9.30&lt;/version&gt; &lt;/dependency&gt; &lt;dependency&gt; &lt;groupId&gt;commons-io&lt;/groupId&gt;
+            &lt;artifactId&gt;commons-io&lt;/artifactId&gt; &lt;version&gt;2.1&lt;/version&gt; &lt;/dependency&gt; &lt;/dependencies&gt;&lt;/project&gt;]]&gt;&lt;/script&gt;
+            More examples to follow!
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/8250698939832208279/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=8250698939832208279'
+              title='1 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/8250698939832208279'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/8250698939832208279'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/11/marklogic-first-steps-with-marklogic.html'
+              title='MarkLogic: First steps with the MarkLogic hadoop connector (MarkLogic 5.0-1)'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>1</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-6301577801188221098</id>
+        <published>2011-10-23T06:14:00.000+01:00</published>
+        <updated>2011-10-23T06:37:43.102+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="httpclient"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="java"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="xcc/j"/>
+        <title type='text'>MarkLogic/XCC/HttpClient: Connecting to an XDBC Application Server using HttpClient</title>
+        <content type='html'>This was written purely out of curiosity rather than anything else - pasted below in case
+            it&#39;s of any interest to others. Written with HttpClient 4.1.2 in mind:&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: java&quot;&gt;&lt;![CDATA[import java.io.IOException; import org.apache.http.Header;
+            import org.apache.http.HttpResponse; import org.apache.http.auth.AuthScope; import
+            org.apache.http.auth.UsernamePasswordCredentials; import org.apache.http.client.ClientProtocolException;
+            import org.apache.http.client.methods.HttpGet; import org.apache.http.conn.scheme.PlainSocketFactory; import
+            org.apache.http.conn.scheme.Scheme; import org.apache.http.impl.client.DefaultHttpClient; public class
+            XccHttpClientConn { public static void main(String[] args) throws ClientProtocolException, IOException {
+            DefaultHttpClient httpclient = new DefaultHttpClient(); httpclient .getConnectionManager()
+            .getSchemeRegistry() .register( new Scheme(&quot;xcc&quot;, 9999, PlainSocketFactory .getSocketFactory()));
+            httpclient.getCredentialsProvider().setCredentials( new AuthScope(&quot;localhost&quot;, 9999), new
+            UsernamePasswordCredentials(&quot;admin&quot;, &quot;admin&quot;)); HttpGet httpget = new HttpGet(&quot;xcc://localhost:9999&quot;);
+            HttpResponse response = httpclient.execute(httpget); Header[] he = response.getAllHeaders(); for (Header h :
+            he){ System.out.println(h.getName()+&quot; | &quot;+h.getValue()); }
+            httpclient.getConnectionManager().shutdown(); } } ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/6301577801188221098/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=6301577801188221098'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/6301577801188221098'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/6301577801188221098'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/10/marklogicxcchttpclient-connecting-to.html'
+              title='MarkLogic/XCC/HttpClient: Connecting to an XDBC Application Server using HttpClient'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-5076906658668982598</id>
+        <published>2011-10-12T13:06:00.003+01:00</published>
+        <updated>2011-10-12T13:11:51.606+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="scala"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="sorting"/>
+        <title type='text'>Scala: Example of heirarchical sorting by distinct values</title>
+        <content type='html'>Here&#39;s a brief example of how scala can be used to sort using groupBy and mapValues:&lt;br
+            /&gt;&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: java&quot;&gt;&lt;![CDATA[
+            object Test { def main(args: Array[String]) { def items:Seq[(String, Seq[String])] = Seq( (&quot;A&quot;,
+            Seq(&quot;one&quot;, &quot;two&quot;, &quot;three&quot;)), (&quot;B&quot;, Seq(&quot;one&quot;, &quot;two&quot;,
+            &quot;three&quot;)), (&quot;A&quot;, Seq(&quot;one&quot;, &quot;two&quot;, &quot;four&quot;)) ) println(
+            items.groupBy(_._1) .mapValues(_.unzip._2.flatten.distinct.sorted).toSeq ) } } ]]&gt;&lt;/script&gt;&lt;br /&gt;In
+            this context, bear in mind that sorted will return values sorted alphabetically - but you probably get the
+            idea...&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: java&quot;&gt;&lt;![CDATA[
+            scala&gt; Test.main(null) List((A,List(four, one, three, two)), (B,List(one, three, two))) ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/5076906658668982598/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=5076906658668982598'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/5076906658668982598'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/5076906658668982598'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/10/scala-example-of-heirarchical-sorting.html'
+              title='Scala: Example of heirarchical sorting by distinct values'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-8445046900849843587</id>
+        <published>2011-10-06T17:01:00.001+01:00</published>
+        <updated>2011-10-06T17:02:40.478+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="character-encoding"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="diacritics"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="httpclient"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="post"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="utf8"/>
+        <title type='text'>MarkLogic/Apache HttpClient: POSTing form data containing characters with diacritics</title>
+        <content type='html'>If you&#39;re using httpClient and you want to configure it to accept diacritic characters,
+            you&#39;ll need to add an extra line of config:&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: java&quot;&gt;&lt;![CDATA[ HttpClient httpclient = new HttpClient();
+            httpclient.getParams().setParameter(&quot;http.protocol.content-charset&quot;, &quot;UTF-8&quot;); ]]&gt;&lt;/script&gt;&lt;br
+            /&gt;&lt;br /&gt;&lt;i&gt;Source:&lt;/i&gt; &lt;a href=&quot;http://hc.apache.org/httpclient-3.x/preference-api.html&quot;&gt;http://hc.apache.org/httpclient-3.x/preference-api.html&lt;/a&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/8445046900849843587/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=8445046900849843587'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/8445046900849843587'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/8445046900849843587'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/10/marklogicapache-httpclient-posting-form.html'
+              title='MarkLogic/Apache HttpClient: POSTing form data containing characters with diacritics'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-1530665974742890655</id>
+        <published>2011-09-30T14:07:00.001+01:00</published>
+        <updated>2011-09-30T14:09:53.215+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="grep"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic logs"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="sed"/>
+        <title type='text'>Bash/shell: Quick hints for gathering information from the MarkLogic logs</title>
+        <content type='html'>One useful debugging / problem tracing tool I find myself using a lot is using grep with
+            the -AXX argument, to find a specific error and dump the first XX lines of the stacktrace out. In this
+            example, it&#39;ll find the word &quot;cast&quot; (for an invalid cast exception, for example) and dump the
+            following 20 lines from that term&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush:
+            java&quot;&gt;&lt;![CDATA[grep -A20 &quot;cast&quot; /var/opt/MarkLogic/Logs/ErrorLog.txt ]]&gt;&lt;/script&gt;&lt;br
+            /&gt;&lt;br /&gt;To get a list of unique GET requests made to a given http application server:&lt;br /&gt;&lt;script
+            type=&quot;syntaxhighlighter&quot; class=&quot;brush: java&quot;&gt;&lt;![CDATA[sed &#39;s/.*GET .\(.*\
+            HTTP\).*/\1/;s/HTTP//g&#39; /var/opt/MarkLogic/Logs/8401_AccessLog* | uniq ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/1530665974742890655/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=1530665974742890655'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/1530665974742890655'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/1530665974742890655'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/09/bashshell-quick-hints-for-gathering.html'
+              title='Bash/shell: Quick hints for gathering information from the MarkLogic logs'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-7508664694628849423</id>
+        <published>2011-09-27T17:22:00.000+01:00</published>
+        <updated>2011-09-27T17:22:52.794+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="api"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="java"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="truezip"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="unzip"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="zipfiles"/>
+        <title type='text'>Java: Getting started with the TrueZip API</title>
+        <content type='html'>Extremely simplistic example of how you can use the TrueZip API to extract a load of files
+            from a given zip file - it&#39;ll dump the files in the resources folder for this example:&lt;br /&gt;&lt;script
+            type=&quot;syntaxhighlighter&quot; class=&quot;brush: java&quot;&gt;&lt;![CDATA[ import java.io.File; import
+            java.io.IOException; import de.schlichtherle.truezip.file.TFile; public class TestTrueZip { public static
+            void main(String[] args) throws IOException { File tf = new TFile(&quot;src/main/resources/my_zipfile.zip&quot;);
+            TFile[] entries = (TFile[]) tf.listFiles(); for (TFile t : entries) { System.out.println(t.getName());
+            System.out.println(t.isDirectory()); t.cp(new File(&quot;src/main/resources/&quot; + t.getName())); } } } ]]&gt;&lt;/script&gt;&lt;br
+            /&gt;&lt;br /&gt;You&#39;ll need the following dependencies in your POM file:&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: xml&quot;&gt;&lt;![CDATA[ &lt;project xmlns=&quot;http://maven.apache.org/POM/4.0.0&quot;
+            xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xsi:schemaLocation=&quot;http://maven.apache.org/POM/4.0.0
+            http://maven.apache.org/xsd/maven-4.0.0.xsd&quot;&gt; &lt;modelVersion&gt;4.0.0&lt;/modelVersion&gt; &lt;groupId&gt;trueziptest&lt;/groupId&gt;
+            &lt;artifactId&gt;trueziptest&lt;/artifactId&gt; &lt;version&gt;0.0.1-SNAPSHOT&lt;/version&gt; &lt;name&gt;trueziptest&lt;/name&gt;
+            &lt;description&gt;trueziptest&lt;/description&gt; &lt;dependencies&gt; &lt;dependency&gt; &lt;groupId&gt;de.schlichtherle.truezip&lt;/groupId&gt;
+            &lt;artifactId&gt;truezip-driver-zip&lt;/artifactId&gt; &lt;version&gt;7.3.2&lt;/version&gt; &lt;/dependency&gt;
+            &lt;dependency&gt; &lt;groupId&gt;de.schlichtherle.truezip&lt;/groupId&gt; &lt;artifactId&gt;truezip-driver-file&lt;/artifactId&gt;
+            &lt;version&gt;7.3.2&lt;/version&gt; &lt;/dependency&gt; &lt;dependency&gt; &lt;groupId&gt;de.schlichtherle.truezip&lt;/groupId&gt;
+            &lt;artifactId&gt;truezip-file&lt;/artifactId&gt; &lt;version&gt;7.3.2&lt;/version&gt; &lt;/dependency&gt;
+            &lt;dependency&gt; &lt;groupId&gt;de.schlichtherle.truezip&lt;/groupId&gt; &lt;artifactId&gt;truezip-kernel&lt;/artifactId&gt;
+            &lt;version&gt;7.3.2&lt;/version&gt; &lt;/dependency&gt; &lt;/dependencies&gt;&lt;/project&gt;]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/7508664694628849423/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=7508664694628849423'
+              title='1 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/7508664694628849423'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/7508664694628849423'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/09/java-getting-started-with-truezip-api.html'
+              title='Java: Getting started with the TrueZip API'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>1</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-721407850134677224</id>
+        <published>2011-09-19T10:12:00.000+01:00</published>
+        <updated>2011-09-19T10:12:17.706+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="document size"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic xquery"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="sample"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="size"/>
+        <title type='text'>MarkLogic / XQuery - get a sample of document sizes across a given database</title>
+        <content type='html'>Here&#39;s a simple way to get the sizes of sample documents across a given databases&lt;br
+            /&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: xquery&quot;&gt;&lt;![CDATA[ xquery
+            version &quot;1.0-ml&quot;; declare namespace html = &quot;http://www.w3.org/1999/xhtml&quot;; for $d in
+            doc()[1 to 1000] order by string-length(string(data($d))) idiv 2 ascending return element doc { element uri
+            {xdmp:node-uri($d)}, element size {string-length(string(data($d))) idiv 2} } ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/721407850134677224/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=721407850134677224'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/721407850134677224'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/721407850134677224'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/09/marklogic-xquery-get-sample-of-document.html'
+              title='MarkLogic / XQuery - get a sample of document sizes across a given database'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-8192637818196396745</id>
+        <published>2011-09-16T16:49:00.002+01:00</published>
+        <updated>2011-09-19T10:20:48.309+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="excel"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="parse cells"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="xquery"/>
+        <title type='text'>XQuery/MarkLogic: pulling data out of an Excel spreadsheet</title>
+        <content type='html'>Excel spreadsheets can be saved in an xml format - in such cases, it&#39;s simple to dump
+            the xml into a CQ buffer (if you&#39;re using MarkLogic) and parse the information in adjacent column cells.&lt;br
+            /&gt;&lt;br /&gt;In this example, I&#39;m taking a very simple spreadsheet structure to illustrate the
+            procedure:&lt;br /&gt;&lt;br /&gt;&lt;table border=&quot;1&quot;&gt;&lt;tr&gt; &lt;td&gt;HEADER 1&lt;/td&gt;
+            &lt;td&gt;HEADER 2&lt;/td&gt; &lt;/tr&gt;&lt;tr&gt; &lt;td&gt;Val 1a&lt;/td&gt; &lt;td&gt;Val 1b&lt;/td&gt;
+            &lt;/tr&gt;&lt;tr&gt; &lt;td&gt;Val 2a&lt;/td&gt; &lt;td&gt;Val 2b&lt;/td&gt; &lt;/tr&gt;&lt;tr&gt; &lt;td&gt;...&lt;/td&gt;
+            &lt;td&gt;...&lt;/td&gt; &lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;Below is an example of how to parse the XML,
+            pull out the information from the relevant cells and strip white space for good measure: &lt;br /&gt;&lt;script
+            type=&quot;syntaxhighlighter&quot; class=&quot;brush: xquery&quot;&gt;&lt;![CDATA[ xquery version &quot;1.0-ml&quot;;
+            declare namespace s=&quot;urn:schemas-microsoft-com:office:spreadsheet&quot;; declare variable $xml := &lt;Workbook
+            xmlns=&quot;urn:schemas-microsoft-com:office:spreadsheet&quot; xmlns:o=&quot;urn:schemas-microsoft-com:office:office&quot;
+            xmlns:x=&quot;urn:schemas-microsoft-com:office:excel&quot; xmlns:ss=&quot;urn:schemas-microsoft-com:office:spreadsheet&quot;
+            xmlns:html=&quot;http://www.w3.org/TR/REC-html40&quot;&gt; &lt;Worksheet ss:Name=&quot;Example&quot;&gt;
+            &lt;Table ss:ExpandedColumnCount=&quot;2&quot; ss:ExpandedRowCount=&quot;4518&quot; x:FullColumns=&quot;1&quot;
+            x:FullRows=&quot;1&quot; ss:DefaultRowHeight=&quot;15&quot;&gt;&lt;column ss:Index=&quot;2&quot;
+            ss:AutoFitWidth=&quot;0&quot; ss:Width=&quot;96&quot;/&gt; &lt;Row&gt; &lt;Cell&gt;&lt;Data ss:Type=&quot;String&quot;&gt;COLUMN
+            HEADING 1&lt;/Data&gt;&lt;NamedCell ss:Name=&quot;_FilterDatabase&quot;/&gt;&lt;/Cell&gt; &lt;Cell&gt;&lt;Data
+            ss:Type=&quot;String&quot;&gt;COLUMN HEADING 2&lt;/Data&gt;&lt;NamedCell ss:Name=&quot;_FilterDatabase&quot;/&gt;&lt;/Cell&gt;
+            &lt;/Row&gt; &lt;Row&gt; &lt;Cell&gt;&lt;Data ss:Type=&quot;String&quot;&gt;12345 &lt;/Data&gt;&lt;NamedCell
+            ss:Name=&quot;_FilterDatabase&quot;/&gt;&lt;/Cell&gt; &lt;Cell&gt;&lt;Data ss:Type=&quot;String&quot;&gt;98876
+            &lt;/Data&gt;&lt;NamedCell ss:Name=&quot;_FilterDatabase&quot;/&gt;&lt;/Cell&gt; &lt;/Row&gt; &lt;Row&gt;
+            &lt;Cell&gt;&lt;Data ss:Type=&quot;String&quot;&gt;23456 &lt;/Data&gt;&lt;NamedCell ss:Name=&quot;_FilterDatabase&quot;/&gt;&lt;/Cell&gt;
+            &lt;Cell&gt;&lt;Data ss:Type=&quot;String&quot;&gt;98877 &lt;/Data&gt;&lt;NamedCell ss:Name=&quot;_FilterDatabase&quot;/&gt;&lt;/Cell&gt;
+            &lt;/Row&gt; &lt;Row&gt; &lt;Cell&gt;&lt;Data ss:Type=&quot;String&quot;&gt;34567 &lt;/Data&gt;&lt;NamedCell
+            ss:Name=&quot;_FilterDatabase&quot;/&gt;&lt;/Cell&gt; &lt;Cell&gt;&lt;Data ss:Type=&quot;String&quot;&gt;98878
+            &lt;/Data&gt;&lt;NamedCell ss:Name=&quot;_FilterDatabase&quot;/&gt;&lt;/Cell&gt; &lt;/Row&gt; &lt;Row&gt;
+            &lt;Cell&gt;&lt;Data ss:Type=&quot;String&quot;&gt;45678 &lt;/Data&gt;&lt;NamedCell ss:Name=&quot;_FilterDatabase&quot;/&gt;&lt;/Cell&gt;
+            &lt;Cell&gt;&lt;Data ss:Type=&quot;String&quot;&gt;98879 &lt;/Data&gt;&lt;NamedCell ss:Name=&quot;_FilterDatabase&quot;/&gt;&lt;/Cell&gt;
+            &lt;/Row&gt; &lt;/Table&gt;&lt;/Worksheet&gt; &lt;/Workbook&gt;; for $item in ($xml//s:Row)[2 to last()] let
+            $item-id := element id {replace(replace($item/s:Cell[1]/s:Data/string(),&#39;\s+$&#39;,&#39;&#39;),&#39;^\s+&#39;,&#39;&#39;)}
+            let $internal-id := element internal-id {replace(replace($item/s:Cell[2]/s:Data/string(),&#39;\s+$&#39;,&#39;&#39;),&#39;^\s+&#39;,&#39;&#39;)}
+            return element item { $item-id, $internal-id } ]]&gt;&lt;/script&gt;&lt;br /&gt;&lt;br /&gt;You should end
+            up with something like this:&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: xml&quot;&gt;&lt;![CDATA[
+            &lt;item&gt; &lt;id&gt;12345&lt;/id&gt; &lt;internal-id&gt;98876&lt;/internal-id&gt; &lt;/item&gt; &lt;item&gt;
+            &lt;id&gt;23456&lt;/id&gt; &lt;internal-id&gt;98877&lt;/internal-id&gt; &lt;/item&gt; &lt;item&gt; &lt;id&gt;34567&lt;/id&gt;
+            &lt;internal-id&gt;98878&lt;/internal-id&gt; &lt;/item&gt; &lt;item&gt; &lt;id&gt;45678&lt;/id&gt; &lt;internal-id&gt;98879&lt;/internal-id&gt;
+            &lt;/item&gt;]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/8192637818196396745/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=8192637818196396745'
+              title='3 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/8192637818196396745'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/8192637818196396745'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/09/xquerymarklogic-pulling-data-out-of.html'
+              title='XQuery/MarkLogic: pulling data out of an Excel spreadsheet'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>3</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-2902696234758390435</id>
+        <published>2011-08-08T09:24:00.001+01:00</published>
+        <updated>2011-08-08T09:26:03.897+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="sbt"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="scala"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="scalatest"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="tags"/>
+        <title type='text'>SBT/ScalaTest: Running individual tests through the use of tagging</title>
+        <content type='html'>In a given suite of tests, one test can be tagged like so:&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: java&quot;&gt;&lt;![CDATA[ import org.scalatest.matchers.ShouldMatchers import
+            org.scalatest.{Tag, Spec} class SomeFunctionalTests extends Spec with FunctionalTestSpec with ShouldMatchers
+            { it(&quot;should always do something that can be expressed as a boolean&quot;, Tag(&quot;Booleantest&quot;)
+            ) { // test code } } ]]&gt;&lt;/script&gt;&lt;br /&gt;&lt;br /&gt;And to run only the specified test from
+            within in SBT:&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: bash&quot;&gt;&lt;![CDATA[
+            ./sbt functional:test-only *SomeFunctionalTests -- -n Booleantest ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/2902696234758390435/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=2902696234758390435'
+              title='1 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/2902696234758390435'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/2902696234758390435'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/08/sbtscalatest-running-individual-tests.html'
+              title='SBT/ScalaTest: Running individual tests through the use of tagging'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>1</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-2949923121510091006</id>
+        <published>2011-08-02T23:15:00.001+01:00</published>
+        <updated>2011-08-02T23:17:57.004+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="administration"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="configuration"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="xquery"/>
+        <title type='text'>MarkLogic: Example Word Query Specification Template</title>
+        <content type='html'>Below is an example configuration for creating a custom word query specification on a given
+            database:&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: xquery&quot;&gt;&lt;![CDATA[
+            xquery version &quot;1.0-ml&quot;; import module namespace admin = &quot;http://marklogic.com/xdmp/admin&quot;
+            at &quot;/MarkLogic/admin.xqy&quot;; declare variable $config := admin:get-configuration(); declare variable
+            $db := xdmp:database(&quot;Documents&quot;); declare variable $wqspec := admin:database-included-element(&quot;&quot;,
+            &quot;Info&quot;, 2.0, &quot;&quot;, &quot;&quot;, &quot;&quot;); let $config :=
+            admin:database-add-word-query-included-element($config, $db, $wqspec) let $config :=
+            admin:database-set-word-query-fast-phrase-searches($config, $db, fn:true()) let $config :=
+            admin:database-set-word-query-fast-case-sensitive-searches($config, $db, fn:true()) let $config :=
+            admin:database-set-word-query-fast-diacritic-sensitive-searches($config, $db, fn:true()) let $config :=
+            admin:database-set-word-query-stemmed-searches($config, $db, &quot;decompounding&quot;) let $config :=
+            admin:database-set-word-query-include-document-root($config, $db, fn:false()) return
+            admin:save-configuration($config) ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/2949923121510091006/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=2949923121510091006'
+              title='3 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/2949923121510091006'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/2949923121510091006'/>
+        <link rel='alternate' type='text/html' href='http://blog.msbbc.co.uk/2011/08/marklogic-example-word-query.html'
+              title='MarkLogic: Example Word Query Specification Template'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>3</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-7164644945952619241</id>
+        <published>2011-07-27T16:29:00.003+01:00</published>
+        <updated>2011-07-27T16:32:05.163+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="libxcc"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="ruby"/>
+        <title type='text'>Linux: ruby/libxcc bindings - configuring and testing</title>
+        <content type='html'>Outlined below are the steps for installing and configuring libxcc:&lt;br /&gt;&lt;script
+            type=&quot;syntaxhighlighter&quot; class=&quot;brush: bash&quot;&gt;&lt;![CDATA[ # install libxcc wget
+            http://xqzone.marklogic.com/download/code/libmlxcc/releases/src/mlxcc-0.5.3.tar.gz tar xzvf
+            mlxcc-0.5.3.tar.gz cd mlxcc-0.5.3 ./configure make sudo make install cd .. # now install the gem wget
+            http://xqzone.marklogic.com/download/code/libmlxcc/releases/GEMS/ruby-xcc-0.5.3.gem gem install
+            ruby-xcc-0.5.3.gem ]]&gt;&lt;/script&gt;&lt;br /&gt;&lt;br /&gt;And some example usage:&lt;br /&gt;&lt;script
+            type=&quot;syntaxhighlighter&quot; class=&quot;brush: bash&quot;&gt;&lt;![CDATA[ #!/usr/bin/ruby require
+            &quot;xcc&quot; puts &#39;Connecting to MarkLogic&#39; session = Xcc::Session.new(&quot;admin&quot;, &quot;admin&quot;,
+            &quot;localhost&quot;, &quot;Documents&quot;, 9999) puts &#39;about to query server session info&#39; puts
+            session.server_info() puts &#39;got session info&#39; puts &#39;Getting a DB listing&#39; query = &quot;for
+            $i in doc() return base-uri($i)&quot; request = session.new_adhoc_query(query) result = request.submit()
+            while(result.has_next?()) puts = result.next_item().to_s end puts &#39;Inserting a new document&#39; content
+            = session.new_content() content.data = &quot;&lt;data&gt;Some Test Data&lt;/data&gt;&quot; content.uri =
+            &quot;/mark/logic/uri.xml&quot; content.insert #Issuing a query: # query = &quot;for $i in input() return
+            base-uri($i)&quot; # request = session.new_adhoc_query(query) # result = request.submit() #
+            while(result.has_next?()) # puts = result.next_item().to_s # end ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/7164644945952619241/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=7164644945952619241'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/7164644945952619241'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/7164644945952619241'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/07/linux-rubylibxcc-bindings-configuring.html'
+              title='Linux: ruby/libxcc bindings - configuring and testing'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-3599689310503171208</id>
+        <published>2011-07-27T12:45:00.003+01:00</published>
+        <updated>2011-07-27T12:47:08.147+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="in-mem-update"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <title type='text'>MarkLogic: in-mem-update example</title>
+        <content type='html'>A template example showing the use of the in-mem-update library (shipped with MarkLogic):&lt;br
+            /&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: xquery&quot;&gt;&lt;![CDATA[ xquery
+            version &quot;1.0-ml&quot;; import module namespace content=&quot;util&quot; at &quot;/modules/util.xqy&quot;;
+            import module namespace mem = &quot;http://xqdev.com/in-mem-update&quot; at &quot;/MarkLogic/appservices/utils/in-mem-update.xqy&quot;;
+            declare variable $id as xs:string := &quot;1234-1234-1234-1234-1234&quot;; let $doc := cts:search( doc(),
+            cts:element-value-query( xs:QName(&quot;id&quot;), $id, &quot;case-insensitive&quot; ) ) return if(
+            util:has-access($doc) ) then( mem:node-insert-child($doc//Article, &lt;has-access /&gt;) ) else( $doc ) ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/3599689310503171208/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=3599689310503171208'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/3599689310503171208'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/3599689310503171208'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/07/marklogic-in-mem-update-example.html'
+              title='MarkLogic: in-mem-update example'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-2545855662703135584</id>
+        <published>2011-07-27T12:29:00.004+01:00</published>
+        <updated>2011-07-27T12:31:31.654+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="element-based-sort"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="search-api"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="sort-order"/>
+        <title type='text'>MarkLogic: Search API - sort order template</title>
+        <content type='html'>A very brief template outlining a possible approach for a date range sort order (this
+            example works on the premise that the range index is present on the element specified)&lt;br /&gt;&lt;script
+            type=&quot;syntaxhighlighter&quot; class=&quot;brush: xquery&quot;&gt;&lt;![CDATA[ xquery version &quot;1.0-ml&quot;;
+            import module namespace search = &quot;http://marklogic.com/appservices/search&quot; at &quot;/MarkLogic/appservices/search/search.xqy&quot;;
+            (: set this to fn:true() or fn:false() :) declare variable $is-sort-by-date as xs:boolean := fn:false(); (:
+            set this to ascending OR descending :) declare variable $date-sort-order as xs:string := &quot;descending&quot;;
+            search:search(&quot;browser&quot;, &lt;options xmlns=&quot;http://marklogic.com/appservices/search&quot;&gt;{
+            if( $is-sort-by-date ) then( &lt;sort-order type=&quot;xs:date&quot; direction=&quot;{$date-sort-order}&quot;&gt;
+            &lt;element ns=&quot;http://example.com/app&quot; name=&quot;Date&quot;/&gt;&lt;/sort-order&gt;) else() }
+            &lt;/options&gt;) ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/2545855662703135584/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=2545855662703135584'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/2545855662703135584'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/2545855662703135584'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/07/marklogic-search-api-sort-order.html'
+              title='MarkLogic: Search API - sort order template'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-7503102687808652571</id>
+        <published>2011-07-27T09:32:00.006+01:00</published>
+        <updated>2011-07-27T10:54:35.687+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="remove-constraint"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="search-api"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="xdmp:set"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="xquery"/>
+        <title type='text'>MarkLogic: Search API - removing facet constraints using XQuery and xdmp:set</title>
+        <content type='html'>This is some partial code outlining an approach for removing facet constrints from a query
+            string. Thanks to &lt;a href=&quot;http://blog.davidcassel.net/&quot;&gt;David Cassel&lt;/a&gt; for
+            suggesting the use of xdmp:set to maintain state throughout the process.&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: xquery&quot;&gt;&lt;![CDATA[ declare function content:get-facet-constraint-names() as
+            xs:string* { config:search-options()/*:constraint/@name }; declare function content:seq-contains($string as
+            xs:string, $searchStrings as xs:string*) as xs:boolean { some $searchString in $searchStrings satisfies
+            ($string eq $searchString) }; declare function content:remove-constraints($search-string, $facet-names){ let
+            $process := for $item in fn:tokenize($new-search-string, &quot; &quot;) let $_ := if
+            (content:seq-contains(fn:substring-before($item, &quot;:&quot;), $facet-names)) then
+            xdmp:set($new-search-string, search:remove-constraint($new-search-string, $item)) else () return () return
+            $new-search-string }; declare function content:remove-facet-constraints($ctsquery){ let $search-string :=
+            search:unparse($ctsquery) let $log := xdmp:log(search:unparse($ctsquery)) let $facet-names :=
+            content:get-facet-constraint-names() return let $result := content:remove-constraints($search-string,
+            $facet-names) return search:parse($result) }; ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/7503102687808652571/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=7503102687808652571'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/7503102687808652571'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/7503102687808652571'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/07/marklogic-search-api-removing-facet.html'
+              title='MarkLogic: Search API - removing facet constraints using XQuery and xdmp:set'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-7733750768750745736</id>
+        <published>2011-07-06T15:27:00.001+01:00</published>
+        <updated>2011-07-27T09:33:38.424+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="branching"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="git"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="rebase"/>
+        <title type='text'>Git: Specify Master Branch on git pull</title>
+        <content type='html'>In place of git pull --rebase, set this:&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: bash&quot;&gt;&lt;![CDATA[ git config branch.master.rebase true ]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/7733750768750745736/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=7733750768750745736'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/7733750768750745736'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/7733750768750745736'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/07/git-specify-master-branch-on-git-pull.html'
+              title='Git: Specify Master Branch on git pull'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-3880412415863085626.post-5235629408761751181</id>
+        <published>2011-06-30T10:09:00.003+01:00</published>
+        <updated>2011-06-30T10:12:59.928+01:00</updated>
+        <category scheme="http://www.blogger.com/atom/ns#" term="marklogic"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="modules"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="xcc/j"/>
+        <category scheme="http://www.blogger.com/atom/ns#" term="xquery"/>
+        <title type='text'>MarkLogic/XCC: Copying a Module with User Content Permissions</title>
+        <content type='html'>To get xcc to copy modules over with (execute) permissions pre-applied, you can do the
+            following:&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush: java&quot;&gt;&lt;![CDATA[
+            import java.io.UnsupportedEncodingException; import java.net.URI; import java.net.URISyntaxException; import
+            com.marklogic.xcc.Content; import com.marklogic.xcc.ContentCapability; import
+            com.marklogic.xcc.ContentCreateOptions; import com.marklogic.xcc.ContentFactory; import
+            com.marklogic.xcc.ContentPermission; import com.marklogic.xcc.ContentSource; import
+            com.marklogic.xcc.ContentSourceFactory; import com.marklogic.xcc.Session; import
+            com.marklogic.xcc.exceptions.RequestException; import com.marklogic.xcc.exceptions.XccConfigException;
+            public class XCCWithPermissions { public static void main(String[] args) throws XccConfigException,
+            URISyntaxException, RequestException, UnsupportedEncodingException { ContentSource cs =
+            ContentSourceFactory.newContentSource(new URI( &quot;xcc://admin:admin@localhost:9999&quot;)); String
+            testModule = &quot;xquery version \&quot;1.0-ml\&quot;;\nelement total {1+2}&quot;; Session s =
+            cs.newSession(&quot;Modules&quot;); ContentCreateOptions opts = new ContentCreateOptions();
+            ContentPermission[] cp = new ContentPermission[] { new ContentPermission( ContentCapability.EXECUTE, &quot;the-role-you-created&quot;)
+            }; opts.setPermissions(cp); Content c = ContentFactory.newContent(&quot;/default.xqy&quot;,
+            testModule.getBytes(&quot;UTF-8&quot;), opts); s.insertContent(c); } } ]]&gt;&lt;/script&gt;&lt;br /&gt;And
+            you can test by running this against the Modules database in CQ:&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot;
+            class=&quot;brush: xquery&quot;&gt;&lt;![CDATA[ xdmp:document-get-permissions(&quot;/default.xqy&quot;) ]]&gt;&lt;/script&gt;&lt;br
+            /&gt;And you should see something like this&lt;br /&gt;&lt;script type=&quot;syntaxhighlighter&quot; class=&quot;brush:
+            xml&quot;&gt;&lt;![CDATA[ &lt;sec:permission&gt; &lt;sec:capability&gt;execute&lt;/sec:capability&gt; &lt;sec:role-id&gt;4624955642112443627&lt;/sec:role-id&gt;&lt;/sec:permission&gt;]]&gt;&lt;/script&gt;
+        </content>
+        <link rel='replies' type='application/atom+xml'
+              href='http://blog.msbbc.co.uk/feeds/5235629408761751181/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html'
+              href='http://www.blogger.com/comment.g?blogID=3880412415863085626&amp;postID=5235629408761751181'
+              title='0 Comments'/>
+        <link rel='edit' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/5235629408761751181'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://www.blogger.com/feeds/3880412415863085626/posts/default/5235629408761751181'/>
+        <link rel='alternate' type='text/html'
+              href='http://blog.msbbc.co.uk/2011/06/marklogicxcc-copying-module-with-user.html'
+              title='MarkLogic/XCC: Copying a Module with User Content Permissions'/>
+        <author>
+            <name>Alex Bleasdale</name>
+            <uri>http://www.blogger.com/profile/02670727321305058929</uri>
+            <email>noreply@blogger.com</email>
+            <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16'
+                      src='https://img1.blogblog.com/img/b16-rounded.gif'/>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+</feed>
