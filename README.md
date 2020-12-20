@@ -1,9 +1,11 @@
 
 get the latest jaxb (https://github.com/eclipse-ee4j/jaxb-ri/releases/tag/3.0.0-RI - recent Nov 25, 2020)
 
+https://eclipse-ee4j.github.io/jaxb-ri/3.0.0/docs/ch03.html#compiling-xml-schema
 
 make the generated directory
 
+* or use : ./xjc.sh -d generated http://exyus.com/xcs/tasklist/source/\?f=put_atom.xsd
 ```
 ./bin/xjc.sh -d generated https://raw.githubusercontent.com/metaleap/go-xsd-pkg/master/kbcafe.com/rss/atom.xsd.xml                                Sat 19 Dec 09:03:08 2020
 Java major version: 14

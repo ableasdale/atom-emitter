@@ -6,13 +6,26 @@ group 'org.example'
 version '1.0-SNAPSHOT'
 
 repositories {
+    jcenter()
     mavenCentral()
+    maven{
+        url "http://repo.spring.io/plugins-release/"
+    }
 }
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+    // https://mvnrepository.com/artifact/javax.xml.xquery/xqj-api
+    //compile group: 'javax.xml.xquery', name: 'xqj-api', version: '1.0'
+    // https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
+    compile group: 'ch.qos.logback', name: 'logback-classic', version: '1.2.3'
+    compile "net.sf.saxon:Saxon-HE:10.3:xqj"
+    compile group: 'net.sf.saxon', name: 'Saxon-HE', version: '10.3'
     compile group: 'jakarta.xml.bind', name: 'jakarta.xml.bind-api', version: '3.0.0'
     compile group: 'com.sun.xml.bind', name: 'jaxb-impl', version: '3.0.0'
+// https://mvnrepository.com/artifact/com.rometools/rome
+    compile group: 'com.rometools', name: 'rome', version: '1.15.0'
+    //compile group: 'net.sf.saxon', name: 'saxon-xqj', version: '9.1.0.8'
     // Started with this - hit a lot of issues - and then moved to the newer eclipse sponsored version
     // compile group: 'javax.xml.bind', name: 'jaxb-api', version: '2.4.0-b180830.0359'
 }
