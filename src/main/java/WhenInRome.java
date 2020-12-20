@@ -1,7 +1,9 @@
 import com.rometools.rome.feed.WireFeed;
 import com.rometools.rome.feed.synd.SyndFeed;
+import com.rometools.rome.feed.synd.SyndFeedImpl;
 import com.rometools.rome.io.FeedException;
 import com.rometools.rome.io.SyndFeedInput;
+import com.rometools.rome.io.SyndFeedOutput;
 import com.rometools.rome.io.XmlReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -39,9 +41,9 @@ public class WhenInRome {
             e.printStackTrace();
         }
         //System.out.println(feed.getTitle());
-        LOG.info("here"+feed.getTitle());
-        LOG.info("here"+ wireFeed.toString());
-        LOG.info(wireFeed.getFeedType());
+//        LOG.info("here"+feed.getTitle());
+//        LOG.info("here"+ wireFeed.toString());
+//        LOG.info(wireFeed.getFeedType());
         //LOG.info("here"+feed.);
         //feedFetcher.setPreserveWireFeed(true);
 
@@ -50,7 +52,7 @@ public class WhenInRome {
         try {
             HttpRequest request2 = HttpRequest.newBuilder()
                     .uri(new URI("http://localhost:8080/api/kafka"))
-                    //.version(HttpClient.Version.HTTP_2)
+                    .version(HttpClient.Version.HTTP_2)
                     .header("Content-Type", "application/json")
                     //.header("key2", "value2")
                     .POST(HttpRequest.BodyPublishers.ofString("{\"firstname\" : \"alex\",\"surname\" : \"bleasdale\"}"))///HttpRequest.BodyProcessor.fromString("Sample request body"))
@@ -79,14 +81,19 @@ public class WhenInRome {
         } catch (IOException e) {
             e.printStackTrace();
         }
-/*
-        SyndFeed feed = new SyndFeedImpl();
-        feed.setFeedType("rss_2.0");
-        feed.setTitle("test-title");
-        feed.setDescription("test-description");
-        feed.setLink("https://example.org");
-        System.out.println(new SyndFeedOutput().outputString(feed));
-        */
+
+        SyndFeed feed1 = new SyndFeedImpl();
+        //feed1.setFeedType("rss_2.0");
+        feed1.setTitle("test-title");
+        feed1.setDescription("test-description");
+        feed1.setLink("https://example.org");
+        feed1.setFeedType("atom_1.0");
+        //feed.setType("text/html");
+        try {
+            LOG.info(new SyndFeedOutput().outputString(feed1));
+        } catch (FeedException e) {
+            e.printStackTrace();
+        }
 
     }
 }
