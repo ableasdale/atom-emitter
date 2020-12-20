@@ -8,7 +8,12 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.lang.invoke.MethodHandles;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.net.URL;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
 
 public class WhenInRome {
 
@@ -42,6 +47,38 @@ public class WhenInRome {
 
         //System.out.println(feed.originalWireFeed().toString());
 
+        try {
+            HttpRequest request2 = HttpRequest.newBuilder()
+                    .uri(new URI("http://localhost:8080/api/kafka"))
+                    //.version(HttpClient.Version.HTTP_2)
+                    .header("key1", "value1")
+                    .header("key2", "value2")
+                    .GET()
+                    .build();
+           // HttpResponse<String> response = HttpClient.newHttpClient()
+             //       .send(request2);
+
+            HttpClient client = HttpClient.newHttpClient();
+            HttpResponse<String> response = client.send(request2, HttpResponse.BodyHandlers.ofString());
+            //.send(request, HttpResponse.BodyHandler.asString());
+
+            LOG.info(response.toString());
+
+
+/*
+            HttpRequest request = HttpRequest.newBuilder()
+                    .uri(new URI("https://postman-echo.com/post"))
+                    .headers("Content-Type", "text/plain;charset=UTF-8")
+                    .POST(HttpRequest.BodyProcessor.fromString("Sample request body"))
+                    .build(); */
+            //LOG.info("her2e"+ request2.);
+        } catch (URISyntaxException e) {
+            e.printStackTrace();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 /*
         SyndFeed feed = new SyndFeedImpl();
         feed.setFeedType("rss_2.0");
