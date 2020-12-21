@@ -1,4 +1,6 @@
-import com.rometools.rome.feed.WireFeed;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import com.rometools.rome.feed.synd.SyndFeed;
 import com.rometools.rome.feed.synd.SyndFeedImpl;
 import com.rometools.rome.io.FeedException;
@@ -8,13 +10,7 @@ import com.rometools.rome.io.XmlReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerConfigurationException;
-import javax.xml.transform.TransformerException;
-import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.stream.StreamResult;
-import javax.xml.transform.stream.StreamSource;
-import java.io.*;
+import java.io.IOException;
 import java.lang.invoke.MethodHandles;
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -29,32 +25,35 @@ public class WhenInRome {
 
     public static void main(String[] args) {
         String url = "https://stackoverflow.com/feeds/tag?tagnames=rome";
-        SyndFeed feed = null;
-        WireFeed wireFeed = null;
+
+        /*
+            Rome
+         */
         try {
-          //  SyndFeedInput in = new SyndFeedInput();
-
-            //SyndFeed syndFeed = in.build(..);
+            System.out.println("here1");
             SyndFeedInput in = new SyndFeedInput();
-            in.setPreserveWireFeed(true);
-
-            feed = in.build(new XmlReader(new URL(url)));
+            //in.setPreserveWireFeed(true);
+            SyndFeed feed = in.build(new XmlReader(new URL(url)));
             //feed.setPreserveWireFeed(true);
-            wireFeed = feed.originalWireFeed();
-        } catch (FeedException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
+            // wireFeed = feed.originalWireFeed();
+            // This will "marshall" the feed back to Atom XML
+            //LOG.info(new SyndFeedOutput().outputString(feed));
+
+            /* convert to JSON using Jackson */
+            XmlMapper xmlMapper = new XmlMapper();
+            JsonNode jsonNode = xmlMapper.readTree(new SyndFeedOutput().outputString(feed));
+            ObjectMapper objectMapper = new ObjectMapper();
+            String value = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(jsonNode);
+
+            LOG.info("JSON:"+value);
+        } catch (FeedException | IOException e) {
+            LOG.error(String.format("Caught an exception: %s", e.getMessage()), e);
         }
-        //System.out.println(feed.getTitle());
-//        LOG.info("here"+feed.getTitle());
-//        LOG.info("here"+ wireFeed.toString());
-//        LOG.info(wireFeed.getFeedType());
-        //LOG.info("here"+feed.);
-        //feedFetcher.setPreserveWireFeed(true);
 
-        //System.out.println(feed.originalWireFeed().toString());
 
+        /*
+            HTTP POST Using the Java 9 HttpClient
+         */
         try {
             HttpRequest request2 = HttpRequest.newBuilder()
                     .uri(new URI("http://localhost:8080/api/kafka"))
@@ -63,8 +62,8 @@ public class WhenInRome {
                     //.header("key2", "value2")
                     .POST(HttpRequest.BodyPublishers.ofString("{\"firstname\" : \"alex\",\"surname\" : \"bleasdale\"}"))///HttpRequest.BodyProcessor.fromString("Sample request body"))
                     .build();
-           // HttpResponse<String> response = HttpClient.newHttpClient()
-             //       .send(request2);
+            // HttpResponse<String> response = HttpClient.newHttpClient()
+            //       .send(request2);
 
             HttpClient client = HttpClient.newHttpClient();
             HttpResponse<String> response = client.send(request2, HttpResponse.BodyHandlers.ofString());
@@ -80,14 +79,13 @@ public class WhenInRome {
                     .POST(HttpRequest.BodyProcessor.fromString("Sample request body"))
                     .build(); */
             //LOG.info("her2e"+ request2.);
-        } catch (URISyntaxException e) {
-            e.printStackTrace();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
+        } catch (URISyntaxException|InterruptedException|IOException e) {
+            LOG.error(String.format("Caught an exception: %s", e.getMessage()), e);
         }
 
+        /*
+           Rome: create a custom feed
+         */
         SyndFeed feed1 = new SyndFeedImpl();
         //feed1.setFeedType("rss_2.0");
         feed1.setTitle("test-title");
@@ -98,41 +96,7 @@ public class WhenInRome {
         try {
             LOG.info(new SyndFeedOutput().outputString(feed1));
         } catch (FeedException e) {
-            e.printStackTrace();
+            LOG.error(String.format("Caught an exception: %s", e.getMessage()), e);
         }
-
-        /**
-         * XSLT magic
-         */
-
-            // Create a transform factory instance.
-            TransformerFactory tfactory = TransformerFactory.newInstance();
-
-            // Create a transformer for the stylesheet.
-        Transformer transformer = null;
-        try {
-            transformer = tfactory.newTransformer(new StreamSource(new File("src/main/resources/j2.xsl")));
-        } catch (TransformerConfigurationException e) {
-            e.printStackTrace();
-        }
-        SyndFeedOutput output = new SyndFeedOutput();
-       ByteArrayOutputStream baos = new ByteArrayOutputStream();
-       // Writer foo = new SyndFeedOutput().output(feed1, new OutputStreamWriter(baos));
-       // Writer writer = new OutputStreamWriter();
-                // Transform the source XML to System.out.
-
-        try {
-           // transformer.transform(new SyndFeedOutput().output(feed1, new OutputStreamWriter(baos)),
-             //       new StreamResult(System.out));
-            transformer.transform(new StreamSource(new File("src/main/resources/feed.xml")),
-
-            new StreamResult(System.out));
-        } catch (TransformerException e) {
-            e.printStackTrace();
-        }
-
-
-
-
     }
 }
