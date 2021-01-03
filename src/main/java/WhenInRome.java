@@ -29,8 +29,11 @@ public class WhenInRome {
         /*
             Rome
          */
+        String jsonFeedData = "";
+        String feedText = "";
+        //SyndFeed feed = null;
         try {
-            System.out.println("here1");
+
             SyndFeedInput in = new SyndFeedInput();
             //in.setPreserveWireFeed(true);
             SyndFeed feed = in.build(new XmlReader(new URL(url)));
@@ -38,29 +41,29 @@ public class WhenInRome {
             // wireFeed = feed.originalWireFeed();
             // This will "marshall" the feed back to Atom XML
             //LOG.info(new SyndFeedOutput().outputString(feed));
-
+            feedText = new SyndFeedOutput().outputString(feed);
+//LOG.info(feedText);
             /* convert to JSON using Jackson */
             XmlMapper xmlMapper = new XmlMapper();
             JsonNode jsonNode = xmlMapper.readTree(new SyndFeedOutput().outputString(feed));
             ObjectMapper objectMapper = new ObjectMapper();
-            String value = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(jsonNode);
+           jsonFeedData = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(jsonNode);
 
-            LOG.info("JSON:"+value);
+          //LOG.info("JSON:"+jsonFeedData);
         } catch (FeedException | IOException e) {
             LOG.error(String.format("Caught an exception: %s", e.getMessage()), e);
         }
 
 
         /*
-            HTTP POST Using the Java 9 HttpClient
+            HTTP POST Using the Java 9 HttpClient - does get a 200 but will only deal with json right now! if I can only figure out how to send XML!
          */
         try {
             HttpRequest request2 = HttpRequest.newBuilder()
                     .uri(new URI("http://localhost:8080/api/kafka"))
                     .version(HttpClient.Version.HTTP_2)
                     .header("Content-Type", "application/json")
-                    //.header("key2", "value2")
-                    .POST(HttpRequest.BodyPublishers.ofString("{\"firstname\" : \"alex\",\"surname\" : \"bleasdale\"}"))///HttpRequest.BodyProcessor.fromString("Sample request body"))
+                    .POST(HttpRequest.BodyPublishers.ofString(jsonFeedData))///HttpRequest.BodyProcessor.fromString(feedText))
                     .build();
             // HttpResponse<String> response = HttpClient.newHttpClient()
             //       .send(request2);
@@ -71,7 +74,6 @@ public class WhenInRome {
 
             LOG.info(response.toString());
 
-
 /*
             HttpRequest request = HttpRequest.newBuilder()
                     .uri(new URI("https://postman-echo.com/post"))
@@ -79,7 +81,7 @@ public class WhenInRome {
                     .POST(HttpRequest.BodyProcessor.fromString("Sample request body"))
                     .build(); */
             //LOG.info("her2e"+ request2.);
-        } catch (URISyntaxException|InterruptedException|IOException e) {
+        } catch (URISyntaxException | InterruptedException | IOException e) {
             LOG.error(String.format("Caught an exception: %s", e.getMessage()), e);
         }
 
