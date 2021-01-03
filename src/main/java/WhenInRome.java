@@ -62,8 +62,8 @@ public class WhenInRome {
             HttpRequest request2 = HttpRequest.newBuilder()
                     .uri(new URI("http://localhost:8080/api/kafka"))
                     .version(HttpClient.Version.HTTP_2)
-                    .header("Content-Type", "application/json")
-                    .POST(HttpRequest.BodyPublishers.ofString(jsonFeedData))///HttpRequest.BodyProcessor.fromString(feedText))
+                    .header("Content-Type", "text/plain")
+                    .POST(HttpRequest.BodyPublishers.ofString(feedText))///HttpRequest.BodyProcessor.fromString(feedText))
                     .build();
             // HttpResponse<String> response = HttpClient.newHttpClient()
             //       .send(request2);
