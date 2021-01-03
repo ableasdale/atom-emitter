@@ -4,4 +4,4 @@ jaxb
 build
 .idea
 out
-/src/main/java/org/*
+/src/main/java/org/w3/_2005/atom/*

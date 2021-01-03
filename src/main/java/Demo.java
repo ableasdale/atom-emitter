@@ -1,14 +1,11 @@
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBElement;
-import jakarta.xml.bind.Marshaller;
 import jakarta.xml.bind.Unmarshaller;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.w3._2005.atom.FeedType;
 
-import javax.swing.text.DefaultEditorKit;
 import javax.xml.transform.stream.StreamSource;
-import java.io.FileInputStream;
 import java.io.InputStream;
 import java.lang.invoke.MethodHandles;
 import java.net.URL;
