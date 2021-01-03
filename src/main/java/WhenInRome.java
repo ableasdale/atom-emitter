@@ -21,7 +21,7 @@ import java.net.http.HttpResponse;
 
 public class WhenInRome {
 
-    private static Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
     public static void main(String[] args) {
         String url = "https://stackoverflow.com/feeds/tag?tagnames=rome";
