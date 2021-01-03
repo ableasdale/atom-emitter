@@ -4,3 +4,4 @@ jaxb
 build
 .idea
 out
+/src/main/java/org/*
