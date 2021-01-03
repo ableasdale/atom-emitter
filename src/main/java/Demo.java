@@ -3,7 +3,7 @@ import jakarta.xml.bind.JAXBElement;
 import jakarta.xml.bind.Unmarshaller;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.w3._2005.atom.FeedType;
+//import org.w3._2005.atom.FeedType;
 
 import javax.xml.transform.stream.StreamSource;
 import java.io.InputStream;
@@ -23,9 +23,9 @@ public class Demo {
         //URL url = new URL("http://bdoughan.blogspot.com/atom.xml");
         URL url = new URL("http://blog.msbbc.co.uk/atom.xml");
         InputStream xml = url.openStream();
-        JAXBElement<FeedType> feed = unmarshaller.unmarshal(new StreamSource(xml), FeedType.class);
+        //JAXBElement<FeedType> feed = unmarshaller.unmarshal(new StreamSource(xml), FeedType.class);
 
-        FeedType f = feed.getValue();
+       // FeedType f = feed.getValue();
       //  JAXBElement<ArrayOfLeadRecord> r = l.getLeadRecordList() ;
        // List<LeadRecordList> leadRecordList = r.getValue().getLeadRecordList();
         xml.close();
