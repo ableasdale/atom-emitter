@@ -49,14 +49,38 @@ public class WhenInRome {
             ObjectMapper objectMapper = new ObjectMapper();
            jsonFeedData = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(jsonNode);
 
-          //LOG.info("JSON:"+jsonFeedData);
+          // LOG.info("JSON:"+jsonFeedData);
+
+            HttpRequest request1 = null;
+            try {
+                request1 = HttpRequest.newBuilder()
+                        .uri(new URI("http://localhost:8080/api/kafka/json"))
+                        .version(HttpClient.Version.HTTP_2)
+                        .header("Content-Type", "application/json")
+                        .POST(HttpRequest.BodyPublishers.ofString(jsonFeedData))///HttpRequest.BodyProcessor.fromString(feedText))
+                        .build();
+                HttpClient client1 = HttpClient.newHttpClient();
+                HttpResponse<String> response1 = client1.send(request1, HttpResponse.BodyHandlers.ofString());
+                LOG.info("POSTED JSON:" + response1.toString());
+            } catch (URISyntaxException e) {
+                e.printStackTrace();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            // HttpResponse<String> response = HttpClient.newHttpClient()
+            //       .send(request2);
+
+
+            //.send(request, HttpResponse.BodyHandler.asString());
+
+
         } catch (FeedException | IOException e) {
             LOG.error(String.format("Caught an exception: %s", e.getMessage()), e);
         }
 
 
         /*
-            HTTP POST Using the Java 9 HttpClient - does get a 200 but will only deal with json right now! if I can only figure out how to send XML!
+            HTTP POST Using the Java 9 HttpClient - send the XML (as text/plain) so it can be pushed into MarkLogic Server
          */
         try {
             HttpRequest request2 = HttpRequest.newBuilder()
@@ -72,7 +96,7 @@ public class WhenInRome {
             HttpResponse<String> response = client.send(request2, HttpResponse.BodyHandlers.ofString());
             //.send(request, HttpResponse.BodyHandler.asString());
 
-            LOG.info(response.toString());
+            LOG.info("POSTED XML:" + response.toString());
 
 /*
             HttpRequest request = HttpRequest.newBuilder()
